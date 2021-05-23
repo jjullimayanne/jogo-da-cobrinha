@@ -1,4 +1,4 @@
-# jogo dacobrinha
+# jogo da cobrinha
 
 
 ### Hi 👋
